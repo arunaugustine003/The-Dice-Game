@@ -1,5 +1,5 @@
 {
-  "name": "the-dice-game",
+  "name": "the-dice-game-new",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/arunaugustine003/The-Dice-Game/issues"
   },
-  "homepage": "https://arunaugustine003.github.io/The-Dice-Game",
+  "homepage": "https://arunaugustine003.github.io/the-dice-game-newgit",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
