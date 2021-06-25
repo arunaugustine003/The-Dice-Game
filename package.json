@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arunaugustine003/The-Dice-Game.git"
+    "url": "git+https://github.com/arunaugustine003/the-dice-game-new.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arunaugustine003/The-Dice-Game/issues"
+    "url": "https://github.com/arunaugustine003/the-dice-game-new/issues"
   },
-  "homepage": "https://arunaugustine003.github.io/the-dice-game-newgit",
+  "homepage": "https://arunaugustine003.github.io/the-dice-game-new",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
